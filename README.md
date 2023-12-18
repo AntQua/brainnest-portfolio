@@ -8,7 +8,7 @@
 
 <br>
 
-# Visit the website: https://juniperfawn.github.io/brainnest-portfolio/ 
+# Visit the website: https://antqua.github.io/brainnest-portfolio/
 <br>
 <br>
 
@@ -53,7 +53,7 @@
 # Our Participant who contributet to development of the website
 ### Team Members:<br>
 
-live Site: https://juniperfawn.github.io/brainnest-portfolio/
+live Site: https://antqua.github.io/brainnest-portfolio/
 
 Team Members:<br>
 
